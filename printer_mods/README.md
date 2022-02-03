@@ -282,7 +282,7 @@ like so:
 | rsheng118 | [BTT octopus DIN vertical mount](./rsheng118/BTT_octopus_DIN_vertical_mount) | DIN vertical mount for Big Tech Tree Octopus board | :x: | :x: | :heavy_check_mark: | :x: |
 | ryandam | [Cable Management Duct](./ryandam/Cable_management_duct) | Zip tie mount intergrated cable duct to hide your cable | :heavy_check_mark: | :grey_question: | :grey_question: | :grey_question: | :grey_question: |
 | samwiseg0 | [Microfit 2x3 Skirt Connector (ADXL)](./samwiseg0/microfit_2x3_skirt_connector_adxl) | Mod for a Microfit 2x3 connector to be mounted in a skirt | :x: | :x: | :heavy_check_mark: | :grey_question: | :grey_question: |
-| SarcasmRules | [Angetube FHD 1080P Camera](./SarcasmRules/angetube_fhd_1080p_camera) | Just another camera mount based off Rhastlyn Wansview 1080p Webcam Mount |:x:|:heavy_check_mark:|:heavy_check_mark:|:grey_question:|:heavy_check_mark:|
+| SarcasmRules | [Angetube FHD 1080P Camera](./SarcasmRules/AngeTubeCameraMount) | Just another camera mount based that replaces the current base with a base to mount to any 20X formfactor xtrusion; may fit 1515 for SW? |:x:|:heavy_check_mark:|:heavy_check_mark:|:grey_question:|:heavy_check_mark:|
 | See1807 | [TopHat Exhaust and LED Light](./See1807/Voron_V0_Exhaust_and_LED_Mod) | A mount for 10mm LED strips and Exhaust for Voron V0 | :heavy_check_mark: | :x: | :x: | :x: |
 | sse018 | [Octopus DIN Rail bracket](./sse018/Octopus_DIN_Rail_bracket) | A Din rail mount for BTT Octopus board | :x: | :x: |:heavy_check_mark: | :x: |
 | Slidr | [PanzerBalls 2.4](./Slidr/PanzerBalls2.4) | Squash Ball Feet for V2.4 | :x: | :x: | :heavy_check_mark: |:x:| :x: |
