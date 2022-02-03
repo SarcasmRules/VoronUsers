@@ -5,7 +5,7 @@ Angetube FHD 1080p Camera Mount
 
 ![Image](./Images/InstalledSideBack.jpg) 
 
-This is a mount designed for a resonably priced camera that's an alternative to the common Logitech choices.  The mount is designed to interface with common 20X formfactor extrusions (may fit 1515 for SW?) and uses common mounting hardware (2x m3x8 SHCS or BHCS, 2x m3 spring nuts).
+This is a mount designed for a reasonably priced camera that's an alternative to the common Logitech choices.  The mount is designed to interface with common 20X formfactor extrusions (may fit 1515 for SW?) and uses common mounting hardware (2x m3x8 SHCS or BHCS, 2x m3 spring nuts).
 
 ![Image](./Images/WansviewWebcam.PNG) 
 
